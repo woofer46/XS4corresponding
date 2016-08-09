@@ -1,0 +1,27 @@
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe.config
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.pdb
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csprojResolveAssemblyReference.cache
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Form1.resources
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Properties.Resources.resources
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csproj.GenerateResource.Cache
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.exe
+c:\users\святослав\documents\visual studio 2015\Projects\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.pdb
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe.config
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.exe
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.pdb
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.pdb
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csprojResolveAssemblyReference.cache
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Form1.resources
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Properties.Resources.resources
+C:\Users\Святослав\Desktop\Pins_mapping_FPGA\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe.config
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.exe
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.pdb
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.exe
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\bin\Debug\Pins mapping FPGA.pdb
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Form1.resources
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins_mapping_FPGA.Properties.Resources.resources
+C:\Users\user\Downloads\Pins_mapping_FPGA (2)\Pins mapping FPGA\Pins mapping FPGA\obj\Debug\Pins mapping FPGA.csproj.GenerateResource.Cache
